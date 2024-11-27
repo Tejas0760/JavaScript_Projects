@@ -8,13 +8,13 @@ Each project folder contains the necessary files (HTML, CSS, and JavaScript) to 
 
 ## Projects 
 
-3. **Banking_Website_Public_Page**: A simulated online banking interface, Simulated the User page here.
+1. **Banking_Website_Public_Page**: A simulated online banking interface, Simulated the User page here.
    - [View Project](https://github.com/Tejas0760/JavaScript_Projects/tree/main/Bankist_PublicPage)
-   - 
-1. **Banking_Website_User_Page**: A space-themed code-breaking game.
+     
+2. **Banking_Website_User_Page**: A space-themed code-breaking game.
    - [View Project](https://github.com/Tejas0760/JavaScript_Projects/tree/main/Bankist_UserPage)
 
-2. **GeoDude**: Created a exciting website where you can log you workouts onto the Map.
+3. **GeoDude**: Created a exciting website where you can log you workouts onto the Map.
    - [View Project](https://github.com/Tejas0760/JavaScript_Projects/tree/main/Mapty)
 
 
